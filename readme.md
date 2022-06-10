@@ -93,3 +93,7 @@ You - For playing it
 -
 
 Also, you don´t have to give credit if you iframe or embed this for your own website. I don´t care. 
+
+[https://cbgamesdev.github.io/chilibowlflash/](https://cbgamesdev.github.io/chilibowlflash/)
+
+[https://cyclokid.github.io/chilibowlflash/](https://cyclokid.github.io/chilibowlflash/)
